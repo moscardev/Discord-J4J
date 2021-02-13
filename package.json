@@ -1,0 +1,17 @@
+{
+  "//1": "Discord J4J Bot",
+  "//2": "Made by MOSCAR.",
+  "name": "discordj4j",
+  "description": "Discord J4J Bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT"
+}
